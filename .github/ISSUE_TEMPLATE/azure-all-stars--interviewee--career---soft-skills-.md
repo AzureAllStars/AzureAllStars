@@ -7,4 +7,6 @@ assignees: lukemurraynz, ahmedmuhi
 
 ---
 
+## What area do you want to talk in?
 
+## What timezone are you in?
