@@ -1,9 +1,9 @@
 ---
-name: "[Interviewee- Technology] Luke Murray"
+name: "[Interviewee- Technology]"
 about: Interviewee- Technology
 title: ''
 labels: ''
-assignees: ''
+assignees: lukemurraynz, ahmedmuhi
 
 ---
 
