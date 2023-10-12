@@ -1,5 +1,5 @@
 ---
-name: "[Interviewee- Technology]"
+name: 'Azure All Stars: Interviewee (Technology)'
 about: Interviewee- Technology
 title: ''
 labels: ''
